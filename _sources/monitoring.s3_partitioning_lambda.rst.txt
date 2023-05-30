@@ -1,0 +1,7 @@
+monitoring.s3\_partitioning\_lambda module
+==========================================
+
+.. automodule:: monitoring.s3_partitioning_lambda
+   :members:
+   :undoc-members:
+   :show-inheritance:

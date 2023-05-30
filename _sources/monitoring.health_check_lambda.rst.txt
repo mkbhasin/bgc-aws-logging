@@ -1,0 +1,7 @@
+monitoring.health\_check\_lambda module
+=======================================
+
+.. automodule:: monitoring.health_check_lambda
+   :members:
+   :undoc-members:
+   :show-inheritance:

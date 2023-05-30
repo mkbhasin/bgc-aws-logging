@@ -1,0 +1,19 @@
+monitoring package
+==================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   monitoring.health_check_lambda
+   monitoring.s3_partitioning_lambda
+
+Module contents
+---------------
+
+.. automodule:: monitoring
+   :members:
+   :undoc-members:
+   :show-inheritance:
