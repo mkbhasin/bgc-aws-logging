@@ -1,0 +1,13 @@
+.gitignore
+LICENSE
+README.md
+pyproject.toml
+src/monitoring/__init__.py
+src/monitoring/health_check_lambda.py
+src/monitoring/s3_partitioning_lambda.py
+src/bgc-aws-logging.egg-info/PKG-INFO
+src/bgc-aws-logging.egg-info/SOURCES.txt
+src/bgc-aws-logging.egg-info/dependency_links.txt
+src/bgc-aws-logging.egg-info/requires.txt
+src/bgc-aws-logging.egg-info/top_level.txt
+tests/test_import.py
