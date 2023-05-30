@@ -3,7 +3,7 @@ name: Publish DL Health Documentation
 on:
   push:
     branches:
-      - main
+      - pycon-demo
 
 jobs:
   publish_sphinx_docs:
